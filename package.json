@@ -1,0 +1,22 @@
+{
+  "name": "viki",
+  "version": "0.0.2",
+  "description": "viki",
+  "main": "viki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VikramTiwari/viki.git"
+  },
+  "keywords": [
+    "viki"
+  ],
+  "author": "Vikram_Tiwari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VikramTiwari/viki/issues"
+  },
+  "homepage": "https://github.com/VikramTiwari/viki"
+}
